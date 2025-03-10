@@ -1,0 +1,13 @@
+langgraph
+langchain
+openai
+tiktoken
+chromadb
+faiss-cpu
+duckduckgo-search
+pydantic
+numpy
+pandas
+matplotlib
+jupyter
+langchain_openai
